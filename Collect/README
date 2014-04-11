@@ -1,0 +1,15 @@
+README
+
+Seps Bachelor(ette) Wikipedia scanner
+
+Collection - bachelorette.py
+
+Pre-processing - soccerplayer.py
+
+Organizing - bachelor3.py
+
+INSTRUCTIONS:
+
+python bachelorette.py > out3.txt
+python soccerplayer.py 
+python bachelor3.py

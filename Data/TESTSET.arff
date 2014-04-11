@@ -1,0 +1,34 @@
+@relation 'bachelor-weka.filters.unsupervised.attribute.Remove-R1-3,6'
+
+@attribute age numeric
+@attribute hometown numeric
+@attribute enliminated numeric
+@attribute haircolor {Blonde,Brown,Red,Lightbrown,Black,Bald}
+@attribute ethnicity {Caucasion,AfricanAmerican,Asian,Hispanic,European}
+@attribute limoordere numeric
+
+@data
+26,3,?,Brown,Caucasion,1
+31,4,?,Brown,Caucasion,2
+29,1,?,Brown,Caucasion,3
+30,4,?,Brown,Caucasion,4
+29,3,?,Black,Hispanic,5
+30,1,?,Brown,Hispanic,6
+30,1,?,Brown,Caucasion,7
+31,1,?,Brown,Caucasion,8
+26,1,?,Black,AfricanAmerican,9
+32,2,?,Black,Caucasion,10
+28,1,?,Brown,Caucasion,11
+26,4,?,Brown,Caucasion,12
+26,4,?,Brown,Caucasion,13
+26,3,?,Brown,Caucasion,1
+31,4,?,Brown,Caucasion,2
+29,1,?,Brown,Caucasion,3
+30,4,?,Brown,Caucasion,4
+29,3,?,Black,Hispanic,5
+30,1,?,Brown,Hispanic,6
+30,1,?,Brown,Caucasion,7
+31,1,?,Brown,Caucasion,8
+26,1,?,Black,AfricanAmerican,9
+32,2,?,Black,Caucasion,10
+26,4,?,Brown,Caucasion,13

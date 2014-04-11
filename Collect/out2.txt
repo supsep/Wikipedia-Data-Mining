@@ -1,0 +1,890 @@
+NEW_SEASON_BEGINShttp://en.wikipedia.org/wiki/The_Bachelorette_(season_4)
+STARTTAG: table
+     attr: ('class', 'wikitable')
+Name
+Age
+Hometown
+Occupation
+Eliminated
+Jesse Csincsak
+26
+Breckenridge, CO
+Professional snowboarder
+Winner
+Jason Mesnick
+31
+Cleveland, OH
+Account executive
+Week 8
+Jeremy Anderson
+30
+Dallas, TX
+Real estate attorney
+Week 7
+Graham Bunn
+29
+Raleigh, NC
+Professional basketball player
+Week 6
+Sean Ramey
+33
+Louisville, KY
+Martial artist
+Week 5
+Blaine Twilley
+33
+Tulsa, OK
+Debt manager
+Week 5
+Brian Westendorf
+31
+Fort Worth, TX
+High school football coach
+Week 4
+Fred Greif
+30
+Skokie, IL
+Lawyer
+Week 4
+Robert Fair
+28
+San Francisco, CA
+Chef
+Week 4
+Paul Brosseau
+23
+Bonnyville, AB
+Sales manager
+Week 3
+Richard Mathy
+27
+Sauquoit, NY
+Science teacher
+Week 3
+Ronald Mayer
+36
+Greeley, CO
+Barber shop owner
+Week 3
+Christopher Bradshaw
+29
+Fort Worth, TX
+Medical sales rep.
+Week 2
+Eric Papachristos
+32
+Greece
+Senior analyst
+Week 2
+Ryan Hoag
+28
+Minneapolis, MN
+Professional football player
+Week 2
+Brian Winchester
+29
+New Castle, IN
+Computer network consultant
+Week 1
+Chandler Fulton
+25
+Virginia Beach, VA
+Insurance rep.
+Week 1
+Donato Capodanno
+26
+Lexington, SC
+Sales rep.
+Week 1
+Greg Matthew
+28
+Rockport, MA
+Personal trainer
+Week 1
+Jeffrey Harris
+27
+Miami, FL
+Mathematics teacher
+Week 1
+Jon Konkel
+35
+Williston, ND
+Resort manager
+Week 1
+Luke Hamilton
+27
+Faith, NC
+Oyster farmer
+Week 1
+Patrick Carlson
+26
+Glenwood, IL
+Financial analyst
+Week 1
+Patrick Durrere
+27
+Elmhurst, IL
+Internet marketing
+Week 1
+Spero Stamboulis
+38
+Ellington, CT
+Actor
+Week 1
+ENDTAG: table
+Call-Out Order
+edit
+STARTTAG: table
+     attr: ('class', 'wikitable')
+NEW_SEASON_BEGINShttp://en.wikipedia.org/wiki/The_Bachelorette_(season_5)
+STARTTAG: table
+     attr: ('class', 'wikitable')
+Name
+Age
+Hometown
+Occupation
+Eliminated
+Ed Swiderski
+29
+Monroe, MI
+Technology Consultant
+Winner
+Kiptyn Locke
+31
+Encinitas, CA
+Business Developer
+Episode 10
+Reid Rosenthal
+30
+Upper Dublin, PA
+Realtor
+Episode 9
+Wes Hayden
+32
+Huntsville, TX
+Musician
+Episode 8
+Jesse Kovacs
+27
+Carmel Valley, CA
+Wine Maker
+Episode 7
+Michael Stagliano
+25
+Tacoma, WA
+Break Dance Instructor
+Episode 7
+Jake Pavelka
+31
+Dallas, TX
+Commercial Pilot
+Episode 6
+Tanner Pope
+30
+Brownfield, TX
+Financial Analyst
+Episode 6
+Robby Descant
+25
+Spring, TX
+Bartender
+Episode 6
+Mark Huebner
+26
+Woodstock, IL
+Pizza Entrepreneur
+Episode 5
+Ed Swiderski
+27
+Monroe, MI
+Technology Consultant
+Eliminated in Episode 5; returned in Episode 7
+David Good
+27
+West Alexandria, OH
+Trucking Contractor
+Episode 4
+Juan Barbieri
+35
+Buenos Aires, Argentina
+General Contractor
+Episode 4
+Mike Steinberg
+28
+New York, NY
+Baseball Camp Owner
+Episode 4
+Brad Leddis
+27
+Park Ridge, IL
+Financial Advisor
+Episode 3
+Tanner Fanello
+28
+Derby, KS
+Sales Representative
+Episode 3
+Sasha Petrovic
+27
+Houston, TX
+Oil Gas Consultant
+Episode 3
+Brian Duke
+32
+Birmingham, AL
+IT Consultant
+Episode 2
+Julien Hug †
+34
+San Diego, CA
+Restaurateur
+Episode 2
+Mathue Johnson
+25
+Andover, KS
+Personal Trainer
+Episode 2
+Simon Ambrose
+26
+Bradford, England
+Soccer Coach
+Episode 2
+Adam Duvendeck
+27
+Santa Barbara, CA
+Olympic Cyclist
+Episode 1
+Bryan Vaderman
+28
+Lawton, OK
+High School Coach
+Episode 1
+Bryce Harlow
+31
+Ft. Lauderdale, FL
+Furniture Dealer
+Episode 1
+Caleb Kuhl
+27
+Kansas City, MO
+Photographer
+Episode 1
+Greg Bilbro
+31
+Albuquerque, NM
+Entrepreneur
+Episode 1
+John Hardesty
+27
+Boise, ID
+Branding Consultant
+Episode 1
+John Presser
+29
+Fort Wayne, IN
+Marketing Specialist
+Episode 1
+Josh Yocam
+25
+Tustin, CA
+Lifeguard
+Episode 1
+Kyle Yauch
+26
+Austin, TX
+Graphic Designer
+Episode 1
+Stephen Reich
+30
+Lexington, MA
+Lawyer
+Episode 1
+ENDTAG: table
+Call-Out Order
+edit
+STARTTAG: table
+     attr: ('class', 'wikitable')
+NEW_SEASON_BEGINShttp://en.wikipedia.org/wiki/The_Bachelorette_(season_6)
+STARTTAG: table
+     attr: ('class', 'wikitable')
+Name
+Age
+Hometown
+Occupation
+Eliminated
+Roberto Martinez
+26
+Tampa, FL
+Insurance Agent
+Winner
+Chris Lambton
+33
+Dennis, MA
+Landscaper
+Runner-Up
+Frank Neuschaefer
+31
+Bartlett, IL
+Retail Manager
+Episode 9 (quit)
+Kirk DeWindt
+27
+Green Bay, WI
+Sales Consultant
+Episode 8
+Ty Brown
+31
+Booneville, MS
+Medical Sales
+Episode 7
+Craig Robinson
+27
+Langhorne, PA
+Lawyer
+Episode 6
+Justin Rego
+26
+Toronto, ON
+Entertainment Wrestler
+Episode 6
+Chris Nordhorn
+29
+Winter Park, FL
+Entrepreneur
+Episode 5
+Kasey Kahl
+27
+Fresno, CA
+Advertising Account Executive
+Episode 5
+Jesse Beck
+24
+Peculiar, MO
+General Contractor
+Episode 4
+Jonathan Novack
+30
+Boston, MA
+Weatherman
+Episode 4
+Hunter Wagner
+28
+Fair Oaks Ranch, TX
+Internet Account Executive
+Episode 3
+John Crivello
+32
+Mukilteo, WA
+Hotel Business Development
+Episode 3
+Steve Kocsis
+28
+Chesterland, OH
+Sales Representative
+Episode 3
+Chris Hasek-Watt
+27
+Campbell River, BC
+Real Estate Developer
+Episode 2
+Craig McKinnon
+34
+Sarnia, ON
+Dental Sales
+Episode 2
+Tyler Vermette
+25
+Chelsea, VT
+Online Advertising
+Episode 2
+Derek
+28
+Warren, MI
+Sales Manager
+Episode 1
+Derrick Schuster
+27
+Manhattan Beach, CA
+Construction Engineer
+Episode 1
+Jason Whitehead
+27
+Johnson City, TN
+Construction Consultant
+Episode 1
+Jay Resmini
+29
+Barrington, RI
+Lawyer
+Episode 1
+John N.
+27
+Wichita, KS
+Engineering Software Sales
+Episode 1
+Kyle Higgins
+26
+Highlands Ranch, CO
+Outdoorsman
+Episode 1
+Phil Kayden
+30
+Elmore, OH
+Investment Manager
+Episode 1
+Tyler Morrow
+25
+Helena, MT
+Catering Manager
+Episode 1
+ENDTAG: table
+Call-Out Order
+edit
+STARTTAG: table
+     attr: ('class', 'wikitable')
+NEW_SEASON_BEGINShttp://en.wikipedia.org/wiki/The_Bachelorette_(season_7)
+STARTTAG: table
+     attr: ('class', 'wikitable')
+Name
+Age
+Hometown
+Occupation
+Eliminated
+J.P. Rosenbaum
+34
+Roslyn
+% New York
+Construction Manager
+Winner
+Ben Flajnik
+28
+Sonoma
+% California
+Wine Maker
+Runner-Up
+Constantine Tzortzis
+30
+Atlanta
+% Georgia
+Restaurant Owner
+Episode 9 (Withdrew)
+Ames Brown
+31
+Chadds Ford
+% Pennsylvania
+Portfolio Manager
+Episode 8
+Lucas Daniels
+30
+Odessa
+% Texas
+Oilfield Equipment Distributor
+Episode 7
+Ryan Park
+31
+Fresno
+% California
+Solar Energy Executive
+Episode 7
+Blake Julian
+27
+Steamboat Springs
+% Colorado
+Dentist
+Episode 6
+Ryan "Mickey" McLean
+31
+Rochester
+% New York
+Chef
+Episode 6 (Withdrew)
+Nick Peterson
+26
+Odessa
+% Florida
+Personal Trainer
+Episode 5
+William Holman
+30
+Fostoria
+% Ohio
+Cellular Phone Salesman
+Episode 5
+Ben Castoriano
+28
+Lake Charles
+% Louisiana
+Lawyer
+Episode 5
+West Lee
+30
+Walhalla
+% South Carolina
+Lawyer
+Episode 4
+Jeff Medolla
+35
+St. Louis
+% Missouri
+Entrepreneur
+Episode 3
+Chris Drish
+25
+Moline
+% Illinois
+Sports Marketing Coordinator
+Episode 3
+Bentley Williams
+28
+Salt Lake City
+% Utah
+Businessman
+Episode 3 (Quit)
+Matt Colombo
+28
+Bridgewater
+% Massachusetts
+Office Supply Salesman
+Episode 2
+Stephen D'Amico
+27
+Portland
+% Connecticut
+Hairstylist
+Episode 2
+Ryan Miller
+27
+Novi
+% Michigan
+Constructor Estimator
+Episode 2
+Anthony Santucci
+28
+Saddle River
+% New Jersey
+Butcher
+Episode 1
+Chris Malhomme
+27
+Gibbons
+% Alberta
+Construction Company CEO
+Episode 1
+Frank Carpenter
+29
+Anchorage
+% Alaska
+College Admissions Director
+Episode 1
+Jon Ellsworth
+26
+Vancouver
+% Washington
+E-Commerce Executive
+Episode 1
+Michael Burns
+29
+Providence
+% Rhode Island
+Technology Salesman
+Episode 1
+Rob Dahm
+27
+Monroe
+% Michigan
+Technology Executive
+Episode 1
+Tim McCormack
+35
+Massapequa
+% New York
+Liquor Distributor
+Episode 1
+ENDTAG: table
+Call-Out Order
+edit
+STARTTAG: table
+     attr: ('class', 'wikitable')
+NEW_SEASON_BEGINShttp://en.wikipedia.org/wiki/The_Bachelorette_(season_8)
+STARTTAG: table
+     attr: ('class', 'wikitable')
+Name
+Age
+Hometown
+Occupation
+Eliminated
+Jef Holm
+27
+Salt Lake City, Utah
+Entrepreneur
+Winner
+Arie Luyendyk, Jr.
+30
+Scottsdale, Arizona
+Race Car Driver
+Runner-Up
+Sean Lowe
+28
+Dallas, Texas
+Insurance Agent
+Episode 9
+Chris Bukowski
+25
+Chicago, Illinois
+Corporate Sales Director
+Episode 8
+John Wolfner
+30
+St. Louis, Missouri
+Data Destruction Specialist
+Episode 7
+Doug Clerget
+33
+Tacoma, Washington
+Single Dad/Real Estate Agent
+Episode 7
+Ryan Bowers
+31
+Augusta, Georgia
+Pro Sports Trainer
+Episode 6
+Travis Pope
+30
+Madison, Mississippi
+Advertising Sales Representative
+Episode 6
+Alejandro Velez
+25
+San Francisco, California
+Mushroom Farmer
+Episode 5
+Kalon McMahon
+27
+Houston, Texas
+Luxury Brand Consultant
+Episode 5
+Charlie Grogan
+32
+Worcester, Massachusetts
+Recruiter
+Episode 4
+Michael Nance
+26
+Austin, Texas
+Rehab Counselor
+Episode 4
+Nathan Baake
+25
+Los Angeles, California
+Accountant
+Episode 4
+Stevie
+26
+Monroe Township, New Jersey
+Party M.C.
+Episode 3
+Alessandro Goulart
+30
+Saint Paul, Minnesota
+Grain Merchant
+Episode 3
+Tony Pieper
+31
+Beaverton, Oregon
+Single Dad/Lumber Trader
+Episode 3
+Aaron Martell
+36
+North Sydney, Nova Scotia
+Biology Teacher
+Episode 2
+Kyle Dillon
+29
+Long Beach, California
+Financial Adviser
+Episode 2
+Joe Gendreau
+27
+Orlando, Florida
+Field Energy Adviser
+Episode 2
+Brent Richter
+41
+Midland, Texas
+Technology Salesman
+Episode 1
+David Homyk
+33
+Charlottesville, Virginia
+Singer/Songwriter
+Episode 1
+Jackson Longnecker
+29
+Lockport, Illinois
+Fitness Model
+Episode 1
+Jean-Paul LaCount
+35
+Moraga, California
+Marine Biologist
+Episode 1
+Lerone Anu
+29
+Laguna Beach, California
+Real Estate Consultant
+Episode 1
+Randy Lee Woyak
+30
+Oak Creek, Wisconsin
+Marketing Manager
+Episode 1
+ENDTAG: table
+Call-Out Order
+edit
+STARTTAG: table
+     attr: ('class', 'wikitable')
+NEW_SEASON_BEGINShttp://en.wikipedia.org/wiki/The_Bachelorette_(season_9)
+STARTTAG: table
+     attr: ('class', 'wikitable')
+Name
+Age
+Hometown
+Occupation
+Eliminated
+Chris Siegfried
+27
+McMinnville, Oregon
+Mortgage Broker
+Winner
+Drew Kenney
+27
+Scottsdale, Arizona
+Digital Marketing Analyst
+Episode 10
+Brooks Forester
+28
+Salt Lake City, Utah
+Sales Marketing
+Episode 9 (Withdrew)
+Zak Waddell
+31
+Dallas, Texas
+Drilling Fluid Engineer
+Episode 8
+Michael Garofola
+33
+Lindenhurst, New York
+Federal Prosecutor
+Episode 7
+James Case
+27
+Marietta, Georgia
+Advertising Executive
+Episode 6
+Juan Pablo Galavis
+31
+Barquisimeto
+% Venezuela
+Former Pro Soccer Player
+Episode 6
+Kasey Stewart
+29
+Tulsa, Oklahoma
+Advertising Executive
+Episode 6
+Ben Scott
+28
+Lubbock, Texas
+Entrepreneur
+Episode 5
+Mikey Tenerelli
+30
+Glen Ellyn, Illinois
+Plumbing Contractor
+Episode 5
+Bryden Vukasin
+26
+Havre, Montana
+Iraq War Veteran
+Episode 5 (Quit)
+Brad McKinzie
+27
+Denver, Colorado
+Accountant/DJ
+Episode 4
+Zack Kalter
+28
+Phillips Ranch, California
+Book Publisher
+Episode 4
+Brandon Andreen
+26
+Blaine, Minnesota
+Painting Contractor
+Episode 3
+Dan Cox
+30
+Dublin, California
+Beverage Sales Director
+Episode 3
+Brian Jarosinski
+29
+Olney, Maryland
+Financial Advisor
+Episode 3(Removed)
+Nick Mucci
+27
+Rochester, New York
+Investment Adviser
+Episode 2
+Robert Graham
+30
+Glendale, Arizona
+Advertising Entrepreneur
+Episode 2
+Will Reese
+28
+Federal Way, Washington
+Banker
+Episode 2
+Diogo Custodio
+29
+Penha
+% Brazil
+Ski Resort Manager
+Episode 1
+Larry Burchett
+34
+Overland Park, Kansas
+ER Doctor
+Episode 1
+Micah Heisler
+32
+Detroit Lakes, Minnesota
+Law Student
+Episode 1
+Mike Ryatuk
+28
+London
+% England
+Dental Student
+Episode 1
+Nick Roy
+26
+Ridgefield, Connecticut
+Tailor/Magician
+Episode 1
+Jonathan Vollinger
+20
+26
+Hickory, North Carolina
+Lawyer
+Episode 1
+ENDTAG: table
+Call-Out Order
+edit
+STARTTAG: table
+     attr: ('class', 'wikitable')
+NEW_SEASON_BEGINShttp://en.wikipedia.org/wiki/The_Bachelorette_(season_10)
+STARTTAG: table
+STARTTAG: table
